@@ -19,7 +19,10 @@ MÁRIO PAULO DE FREITAS FILHO; VICTOR BRUSANTIN OLIVA
     ou inferior.
 
 (3) Para manutenção do direito de utilização deve ser preenchido o feedback 
-    disponibilizado no projeto.
+    disponibilizado no projeto a cada aplicação.
+   
+(4) Concorda que é reservado aos autores modificar estes termos da maneira que bem 
+    entenderem, sem restrições ou necessidade de aviso prévio.
 
  O PROJETO É FORNECIDO "TAL COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO, EXPLICITA OU IMPLÍCITA. 
  EM NENHUM CASO OS AUTORES SÃO RESPONSÁVEIS POR QUALQUER REIVINDICAÇÃO, DANOS OU OUTRAS RESPONSABILIDADES.
