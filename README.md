@@ -13,7 +13,7 @@ MÁRIO PAULO DE FREITAS FILHO; VICTOR BRUSANTIN OLIVA
  distribuir, sujeito às seguintes condições:
 
 (1) O aviso de direitos autorais acima e este aviso de permissão serão incluídos em
-    todas as cópias ou partes substanciais do projeto, suas repertições e modificação.
+    todas as cópias ou partes substanciais do projeto e em repertições e modificações.
  
 (2) O projeto NÃO podera ser comercializado ou vendido, mesmo que a preços de custo
     ou inferior.
